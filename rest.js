@@ -5,7 +5,7 @@ const port = 3000;
 app.use(express.json()); // Middleware to parse JSON request bodies
 
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    res.send('Second Chance');
 });
 
 app.listen(port, () => {
