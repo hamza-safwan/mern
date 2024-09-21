@@ -2,7 +2,7 @@
 // This script is temporarily bundled for testing purposes.
 
 function runPlaceholder() {
-    console.log("Placeholder script executed successfully.");
+    console.log("Testing script executed successfully.");
 }
 
 runPlaceholder();
